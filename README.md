@@ -1,0 +1,1 @@
+Wawaset newsletter image assets. Auto-managed by the draft pipeline.
